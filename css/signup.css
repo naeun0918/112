@@ -12,9 +12,11 @@ html {
   padding-bottom: 20px;
 }
 
+
 body {
   width: 45%;
   border: 1px solid black;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
 }
 
 input{
